@@ -1,0 +1,1360 @@
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       250] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       266] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       266] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       281] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       297] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       313] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       313] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       313] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       328] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       328] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       344] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       344] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       360] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       438] Started resource sessionmanager
+[       453] Started resource mapmanager
+[       469] Started resource chat
+[       485] Started resource spawnmanager
+[       485] Started resource fivem
+[       485] Started gametype Freeroam
+[       485] Started resource hardcap
+[       500] Started resource rconlog
+[       500] Started resource scoreboard
+[       563] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       578] Sending heartbeat to live-internal.fivem.net:30110
+[       578] Started resource fivem-map-hipster
+[       578] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       281] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       281] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       297] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       312] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       312] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       328] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       328] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       344] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       344] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       359] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       375] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Started resource sessionmanager
+[       437] Started resource mapmanager
+[       453] Started resource chat
+[       469] Started resource spawnmanager
+[       469] Started resource fivem
+[       469] Started gametype Freeroam
+[       469] Started resource hardcap
+[       484] Started resource rconlog
+[       484] Started resource scoreboard
+[       500] true
+[       500] Started resource essentialmode
+[       516] Started resource es_admin
+[      1344] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_262282433
+[      1375] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1375] Started resource mysql-async
+[      1578] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1578] Sending heartbeat to live-internal.fivem.net:30110
+[      1578] 
+[      1578] Current version: 4.4.2
+[      1594] Updater version: 4.4.2
+[      1594] 
+[      1594] Everything is fine!
+[      1594] 
+[      1594] Started resource fivem-map-skater
+[      1609] Started map fivem-map-skater
+[      1891] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_262282433
+[      2016] hitch warning: frame time of 544 milliseconds
+[      2828] -------------------------------------------------------------
+[      2828] --- No errors detected, essentialmode is setup properely. ---
+[      2828] -------------------------------------------------------------
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       203] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       219] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       235] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       235] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       235] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       250] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       250] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       266] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       266] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       281] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       281] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       281] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       297] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       313] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       313] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       328] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       328] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       344] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       344] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       344] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       360] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       360] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Started resource sessionmanager
+[       422] Started resource mapmanager
+[       438] Started resource chat
+[       453] Started resource spawnmanager
+[       453] Started resource fivem
+[       453] Started gametype Freeroam
+[       469] Started resource hardcap
+[       469] Started resource rconlog
+[       485] Started resource scoreboard
+[       485] true
+[       500] Started resource essentialmode
+[       500] Started resource es_admin
+[      1313] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_499664935
+[      1344] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1344] Started resource mysql-async
+[      1391] Started resource esplugin_mysql
+[      1453] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1453] Sending heartbeat to live-internal.fivem.net:30110
+[      1453] 
+[      1453] Current version: 4.4.2
+[      1453] Updater version: 4.4.2
+[      1453] 
+[      1469] Everything is fine!
+[      1469] 
+[      1469] Started resource fivem-map-skater
+[      1485] Started map fivem-map-skater
+[      1641] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_499664935
+[      1750] hitch warning: frame time of 301 milliseconds
+[      2703] -------------------------------------------------------------
+[      2703] --- No errors detected, essentialmode is setup properely. ---
+[      2719] -------------------------------------------------------------
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Resource loading for async failed:
+[       219] Could not open resource metadata file C:/Serveur-GTA/resources//async/__resource.lua.
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       266] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       266] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       281] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       281] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       313] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       359] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Resource loading for esx_menu_default failed:
+[       406] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default/__resource.lua.
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Resource loading for esx_menu_dialog failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog/__resource.lua.
+[       422] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       438] Resource loading for esx_menu_list failed:
+[       438] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       516] Started resource chat
+[       516] Started resource spawnmanager
+[       516] Started resource fivem
+[       516] Started gametype Freeroam
+[       531] Started resource hardcap
+[       547] Started resource rconlog
+[       547] Started resource scoreboard
+[       563] true
+[       563] Started resource essentialmode
+[       578] Started resource es_admin
+[      1297] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1079949233
+[      1328] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1328] Started resource mysql-async
+[      1375] Started resource esplugin_mysql
+[      1391] Failed to load script @async/async.lua.
+[      1422] Started resource es_extended
+[      1422] Started resource esx_menu_default
+[      1438] Started resource esx_menu_list
+[      1438] Started resource esx_menu_dialog
+[      1516] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1516] Sending heartbeat to live-internal.fivem.net:30110
+[      1516] 
+[      1516] Current version: 4.4.2
+[      1531] Updater version: 4.4.2
+[      1531] 
+[      1531] Everything is fine!
+[      1531] 
+[      1547] Started resource fivem-map-hipster
+[      1547] Started map fivem-map-hipster
+[      1703] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1079949233
+[      1859] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1079949233
+[      1906] hitch warning: frame time of 414 milliseconds
+[      2203] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1079949233
+[      2750] -------------------------------------------------------------
+[      2750] --- No errors detected, essentialmode is setup properely. ---
+[      2766] -------------------------------------------------------------
+[     61422] Error resuming coroutine: server/functions.lua:132: attempt to index a nil value (global 'Async')
+[     61422] stack traceback:
+[     61422] 	server/functions.lua:132: in field 'SavePlayers'
+[     61422] 	server/functions.lua:147: in function 'saveData'
+[     92859] Connecting: Tchoune
+[    181531] Sending heartbeat to live-internal.fivem.net:30110
+[    361531] Sending heartbeat to live-internal.fivem.net:30110
+[    541563] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       187] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       187]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       187]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       218] Resource loading for async failed:
+[       218] Could not open resource metadata file C:/Serveur-GTA/resources//async/__resource.lua.
+[       218] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       218] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       265] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       265] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       281] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       297] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       312] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       312] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       343] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       343] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       359] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       359] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       390] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       390] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       390] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Resource loading for esx_menu_default failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default/__resource.lua.
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Resource loading for esx_menu_dialog failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog/__resource.lua.
+[       437] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       437] Resource loading for esx_menu_list failed:
+[       437] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       515] Started resource chat
+[       515] Started resource spawnmanager
+[       531] Started resource fivem
+[       531] Started gametype Freeroam
+[       531] Started resource hardcap
+[       547] Started resource rconlog
+[       547] Started resource scoreboard
+[       562] true
+[       562] Started resource essentialmode
+[       578] Started resource es_admin
+[      1500] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1095818229
+[      1515] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1531] Started resource mysql-async
+[      1578] Started resource esplugin_mysql
+[      1593] Failed to load script @async/async.lua.
+[      1625] Started resource es_extended
+[      1625] Started resource esx_menu_default
+[      1625] Started resource esx_menu_list
+[      1640] Started resource esx_menu_dialog
+[      1640] Started resource esx_skinchanger
+[      1656] Started resource esx_skin
+[      1718] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1718] Sending heartbeat to live-internal.fivem.net:30110
+[      1734] 
+[      1734] Current version: 4.4.2
+[      1734] Updater version: 4.4.2
+[      1734] 
+[      1734] Everything is fine!
+[      1734] 
+[      1750] Started resource fivem-map-skater
+[      1750] Started map fivem-map-skater
+[      1906] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1095818229
+[      2078] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1095818229
+[      2140] hitch warning: frame time of 431 milliseconds
+[      2562] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1095818229
+[      2968] -------------------------------------------------------------
+[      2968] --- No errors detected, essentialmode is setup properely. ---
+[      2968] -------------------------------------------------------------
+[     27078] Connecting: Tchoune
+[     61640] Error resuming coroutine: server/functions.lua:132: attempt to index a nil value (global 'Async')
+[     61640] stack traceback:
+[     61640] 	server/functions.lua:132: in field 'SavePlayers'
+[     61640] 	server/functions.lua:147: in function 'saveData'
+[    181765] Sending heartbeat to live-internal.fivem.net:30110
+[    361797] Sending heartbeat to live-internal.fivem.net:30110
+[    541797] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       204] Found new resource async in C:/Serveur-GTA/resources//async
+[       204] Resource loading for async failed:
+[       204] Could not open resource metadata file C:/Serveur-GTA/resources//async/__resource.lua.
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       235] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       266] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       282] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       282] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       313] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       313] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       360] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       360] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       360] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       375] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       375] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       391] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       391] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       407] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       407] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       422] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       422] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       438] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       438] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       500] Started resource sessionmanager
+[       516] Started resource mapmanager
+[       516] Started resource chat
+[       532] Started resource spawnmanager
+[       532] Started resource fivem
+[       532] Started gametype Freeroam
+[       547] Started resource hardcap
+[       547] Started resource rconlog
+[       563] Started resource scoreboard
+[       563] true
+[       563] Started resource essentialmode
+[       579] Started resource es_admin
+[      1438] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1365959803
+[      1469] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1469] Started resource mysql-async
+[      1532] Started resource esplugin_mysql
+[      1532] Failed to load script @async/async.lua.
+[      1563] Started resource es_extended
+[      1563] Started resource esx_menu_default
+[      1579] Started resource esx_menu_list
+[      1579] Started resource esx_menu_dialog
+[      1579] Started resource esx_skinchanger
+[      1594] Started resource esx_skin
+[      1782] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1782] Sending heartbeat to live-internal.fivem.net:30110
+[      1782] 
+[      1782] Current version: 4.4.2
+[      1782] Updater version: 4.4.2
+[      1782] 
+[      1782] Everything is fine!
+[      1782] 
+[      1797] Started resource fivem-map-skater
+[      1797] Started map fivem-map-skater
+[      1954] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1365959803
+[      2125] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1365959803
+[      2172] hitch warning: frame time of 511 milliseconds
+[      2454] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1365959803
+[      3063] -------------------------------------------------------------
+[      3079] --- No errors detected, essentialmode is setup properely. ---
+[      3079] -------------------------------------------------------------
+[     12782] Connecting: Tchoune
+[     61594] Error resuming coroutine: server/functions.lua:132: attempt to index a nil value (global 'Async')
+[     61594] stack traceback:
+[     61594] 	server/functions.lua:132: in field 'SavePlayers'
+[     61594] 	server/functions.lua:147: in function 'saveData'
+[    181829] Sending heartbeat to live-internal.fivem.net:30110
+[    361829] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       187] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       219]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       219]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       234] Found new resource async in C:/Serveur-GTA/resources//async
+[       250] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       250] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       250] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       266] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       266] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       281] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       281] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       297] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       297] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       297] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       312] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       312] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       328] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       328] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       328] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       344] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       344] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       344] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       359] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       359] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       375] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       375] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       375] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       391] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       391] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       406] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       406] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       422] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       437] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       437] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       453] Resource loading for esx_menu_list failed:
+[       453] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       500] Started resource sessionmanager
+[       516] Started resource mapmanager
+[       531] Started resource chat
+[       531] Started resource spawnmanager
+[       531] Started resource fivem
+[       531] Started gametype Freeroam
+[       547] Started resource hardcap
+[       562] Started resource rconlog
+[       562] Started resource scoreboard
+[       578] true
+[       578] Started resource essentialmode
+[       594] Started resource es_admin
+[      1312] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2027783170
+[      1328] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1344] Started resource mysql-async
+[      1391] Started resource esplugin_mysql
+[      1422] Started resource es_extended
+[      1437] Started resource async
+[      1437] Started resource esx_menu_default
+[      1453] Started resource esx_menu_list
+[      1453] Started resource esx_menu_dialog
+[      1453] Started resource esx_skinchanger
+[      1469] Started resource esx_skin
+[      1531] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1641] Sending heartbeat to live-internal.fivem.net:30110
+[      1641] 
+[      1641] Current version: 4.4.2
+[      1641] Updater version: 4.4.2
+[      1641] 
+[      1641] Everything is fine!
+[      1656] 
+[      1656] Started resource fivem-map-hipster
+[      1656] Started map fivem-map-hipster
+[      1812] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2027783170
+[      2000] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2027783170
+[      2062] hitch warning: frame time of 535 milliseconds
+[      2375] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2027783170
+[      2875] -------------------------------------------------------------
+[      2875] --- No errors detected, essentialmode is setup properely. ---
+[      2891] -------------------------------------------------------------
+[     11531] Connecting: Tchoune
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       265] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       265] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       281] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       297] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       297] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       312] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       312] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       328] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       344] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       359] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       359] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       375] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       390] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       390] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       406] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       406] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       437] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       437] Resource loading for esx_menu_list failed:
+[       437] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       515] Started resource chat
+[       515] Started resource spawnmanager
+[       531] Started resource fivem
+[       531] Started gametype Freeroam
+[       531] Started resource hardcap
+[       547] Started resource rconlog
+[       547] Started resource scoreboard
+[       562] true
+[       562] Started resource essentialmode
+[       578] Started resource es_admin
+[      1437] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1836776389
+[      1469] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1469] Started resource mysql-async
+[      1531] Started resource esplugin_mysql
+[      1562] Started resource es_extended
+[      1578] Started resource async
+[      1578] Started resource esx_menu_default
+[      1578] Started resource esx_menu_list
+[      1578] Started resource esx_menu_dialog
+[      1594] Started resource esx_skinchanger
+[      1609] Started resource esx_skin
+[      1656] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1656] Sending heartbeat to live-internal.fivem.net:30110
+[      1672] 
+[      1672] Current version: 4.4.2
+[      1672] Updater version: 4.4.2
+[      1672] 
+[      1672] Everything is fine!
+[      1672] 
+[      1687] Started resource fivem-map-skater
+[      1687] Started map fivem-map-skater
+[      1844] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1836776389
+[      2015] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1836776389
+[      2078] hitch warning: frame time of 423 milliseconds
+[      2422] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1836776389
+[      2906] -------------------------------------------------------------
+[      2922] --- No errors detected, essentialmode is setup properely. ---
+[      2922] -------------------------------------------------------------
+[      8406] Connecting: Tchoune
+[    181687] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       187] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       187]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       187]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       312] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       312] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       312] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       359] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       422] Resource loading for esx_menu_list failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       500] Started resource chat
+[       516] Started resource spawnmanager
+[       516] Started resource fivem
+[       516] Started gametype Freeroam
+[       516] Started resource hardcap
+[       531] Started resource rconlog
+[       547] Started resource scoreboard
+[       547] true
+[       547] Started resource essentialmode
+[       562] Started resource es_admin
+[      1500] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2026136340
+[      1516] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1531] Started resource mysql-async
+[      1578] Started resource esplugin_mysql
+[      1609] Started resource es_extended
+[      1625] Started resource async
+[      1625] Started resource esx_menu_default
+[      1641] Started resource esx_menu_list
+[      1641] Started resource esx_menu_dialog
+[      1656] Started resource esx_skin
+[      1719] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1719] Sending heartbeat to live-internal.fivem.net:30110
+[      1719] 
+[      1734] Current version: 4.4.2
+[      1734] Updater version: 4.4.2
+[      1734] 
+[      1734] Everything is fine!
+[      1734] 
+[      1750] Started resource fivem-map-hipster
+[      1750] Started map fivem-map-hipster
+[      1906] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2026136340
+[      2078] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2026136340
+[      2141] hitch warning: frame time of 434 milliseconds
+[      2469] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2026136340
+[      2969] -------------------------------------------------------------
+[      2969] --- No errors detected, essentialmode is setup properely. ---
+[      2969] -------------------------------------------------------------
+[      5578] Connecting: Tchoune
+[    181766] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       235] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       313] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       313] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       328] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       344] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       360] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       360] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       360] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       391] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       406] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       422] Resource loading for esx_menu_list failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       469] Started resource sessionmanager
+[       485] Started resource mapmanager
+[       516] Started resource chat
+[       516] Started resource spawnmanager
+[       516] Started resource fivem
+[       516] Started gametype Freeroam
+[       531] Started resource hardcap
+[       547] Started resource rconlog
+[       547] Started resource scoreboard
+[       563] true
+[       578] Started resource essentialmode
+[       578] Started resource es_admin
+[      1469] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1654273363
+[      1485] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1500] Started resource mysql-async
+[      1547] Started resource esplugin_mysql
+[      1594] Started resource es_extended
+[      1610] Started resource async
+[      1610] Started resource esx_menu_default
+[      1625] Started resource esx_menu_list
+[      1641] Started resource esx_menu_dialog
+[      1641] Started resource esx_skin
+[      1735] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1735] Sending heartbeat to live-internal.fivem.net:30110
+[      1735] 
+[      1735] Current version: 4.4.2
+[      1735] Updater version: 4.4.2
+[      1735] 
+[      1750] Everything is fine!
+[      1750] 
+[      1750] Started resource fivem-map-hipster
+[      1766] Started map fivem-map-hipster
+[      1906] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1654273363
+[      2094] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1654273363
+[      2156] hitch warning: frame time of 452 milliseconds
+[      2594] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1654273363
+[      2610] hitch warning: frame time of 157 milliseconds
+[      2953] -------------------------------------------------------------
+[      2969] --- No errors detected, essentialmode is setup properely. ---
+[      2969] -------------------------------------------------------------
+[    147313] Connecting: Tchoune
+[    167219] Sending heartbeat to live-internal.fivem.net:30110
+[    167469] Connecting: Tchoune
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       204] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       235] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       266] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       282] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       282] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       282] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       297] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       313] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       329] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       329] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       344] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       360] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       360] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       375] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       391] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       391] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       407] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       407] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       422] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       438] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       438] Resource loading for esx_menu_list failed:
+[       438] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       500] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       516] Started resource chat
+[       532] Started resource spawnmanager
+[       532] Started resource fivem
+[       532] Started gametype Freeroam
+[       547] Started resource hardcap
+[       547] Started resource rconlog
+[       563] Started resource scoreboard
+[       563] true
+[       579] Started resource essentialmode
+[       579] Started resource es_admin
+[      1532] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_419066135
+[      1563] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1563] Started resource mysql-async
+[      1594] Started resource esplugin_mysql
+[      1625] Started resource es_extended
+[      1625] Started resource async
+[      1641] Started resource esx_menu_default
+[      1641] Started resource esx_menu_list
+[      1641] Started resource esx_menu_dialog
+[      1657] Started resource esx_skin
+[      1719] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1735] Sending heartbeat to live-internal.fivem.net:30110
+[      1735] 
+[      1735] Current version: 4.4.2
+[      1735] Updater version: 4.4.2
+[      1735] 
+[      1735] Everything is fine!
+[      1735] 
+[      1750] Started resource fivem-map-skater
+[      1750] Started map fivem-map-skater
+[      1907] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_419066135
+[      2079] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_419066135
+[      2141] hitch warning: frame time of 440 milliseconds
+[      2454] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_419066135
+[      2954] -------------------------------------------------------------
+[      2969] --- No errors detected, essentialmode is setup properely. ---
+[      2969] -------------------------------------------------------------
+[     15079] Connecting: Tchoune
+[     19360] Sending heartbeat to live-internal.fivem.net:30110
+[     24704] Connecting: Tchoune
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       234] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       250] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       266] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       266] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       281] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       297] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       297] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       313] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       313] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       344] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       359] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       375] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       391] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       391] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       406] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       422] Resource loading for esx_menu_default failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default/__resource.lua.
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       438] Resource loading for esx_menu_dialog failed:
+[       438] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog/__resource.lua.
+[       438] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       453] Resource loading for esx_menu_list failed:
+[       453] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       500] Started resource sessionmanager
+[       516] Started resource mapmanager
+[       531] Started resource chat
+[       531] Started resource spawnmanager
+[       547] Started resource fivem
+[       547] Started gametype Freeroam
+[       547] Started resource hardcap
+[       563] Started resource rconlog
+[       578] Started resource scoreboard
+[       578] true
+[       594] Started resource essentialmode
+[       594] Started resource es_admin
+[      1656] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_738047124
+[      1688] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1688] Started resource mysql-async
+[      1750] Started resource esplugin_mysql
+[      1781] Started resource es_extended
+[      1797] Started resource async
+[      1797] Started resource esx_menu_default
+[      1797] Started resource esx_menu_list
+[      1813] Started resource esx_menu_dialog
+[      1828] Started resource esx_skin
+[      1891] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1891] Sending heartbeat to live-internal.fivem.net:30110
+[      1891] 
+[      1891] Current version: 4.4.2
+[      1891] Updater version: 4.4.2
+[      1891] 
+[      1906] Everything is fine!
+[      1906] 
+[      1906] Started resource fivem-map-skater
+[      1922] Started map fivem-map-skater
+[      2063] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_738047124
+[      2375] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_738047124
+[      2438] hitch warning: frame time of 558 milliseconds
+[      2781] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_738047124
+[      3141] -------------------------------------------------------------
+[      3141] --- No errors detected, essentialmode is setup properely. ---
+[      3141] -------------------------------------------------------------
+[     21781] Connecting: Tchoune
+[     41641] Stopping resource sessionmanager
+[     41656] Started resource sessionmanager
+[     48797] Sending heartbeat to live-internal.fivem.net:30110
+[     49063] Connecting: Tchoune
+[    228813] Sending heartbeat to live-internal.fivem.net:30110
+[    408844] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        32] Initializing Mono completed
+[        32] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       235] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       235] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       266] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       282] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       282] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       282] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       297] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       313] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       328] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       344] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       360] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       360] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       360] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       391] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       407] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       422] Resource loading for esx_menu_default failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default/__resource.lua.
+[       422] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Resource loading for esx_menu_dialog failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog/__resource.lua.
+[       438] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       438] Resource loading for esx_menu_list failed:
+[       438] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       500] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       516] Started resource chat
+[       594] Started resource spawnmanager
+[       594] Started resource fivem
+[       594] Started gametype Freeroam
+[       610] Started resource hardcap
+[       610] Started resource rconlog
+[       625] Started resource scoreboard
+[       625] true
+[       641] Started resource essentialmode
+[       641] Started resource es_admin
+[      1360] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_94330596
+[      1391] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1391] Started resource mysql-async
+[      1438] Started resource esplugin_mysql
+[      1469] Started resource es_extended
+[      1485] Started resource async
+[      1485] Started resource esx_menu_default
+[      1500] Started resource esx_menu_list
+[      1500] Started resource esx_menu_dialog
+[      1516] Started resource esx_skin
+[      1563] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1578] Sending heartbeat to live-internal.fivem.net:30110
+[      1578] 
+[      1578] Current version: 4.4.2
+[      1578] Updater version: 4.4.2
+[      1578] 
+[      1578] Everything is fine!
+[      1594] 
+[      1594] Started resource fivem-map-hipster
+[      1610] Started map fivem-map-hipster
+[      1750] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_94330596
+[      2110] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_94330596
+[      2172] hitch warning: frame time of 604 milliseconds
+[      2469] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_94330596
+[      2813] -------------------------------------------------------------
+[      2828] --- No errors detected, essentialmode is setup properely. ---
+[      2828] -------------------------------------------------------------
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       187] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       187]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       187]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       234] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       266] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       297] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       312] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       312] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       328] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       344] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       359] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       359] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       359] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       375] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       375] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       391] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Resource loading for esx_menu_default failed:
+[       406] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default/__resource.lua.
+[       406] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Resource loading for esx_menu_dialog failed:
+[       422] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog/__resource.lua.
+[       422] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       437] Resource loading for esx_menu_list failed:
+[       437] Could not open resource metadata file C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list/__resource.lua.
+[       484] Started resource sessionmanager
+[       500] Started resource mapmanager
+[       562] Started resource chat
+[       562] Started resource spawnmanager
+[       562] Started resource fivem
+[       578] Started gametype Freeroam
+[       578] Started resource hardcap
+[       594] Started resource rconlog
+[       594] Started resource scoreboard
+[       609] true
+[       609] Started resource essentialmode
+[       625] Started resource es_admin
+[      1453] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2075500219
+[      1484] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1484] Started resource mysql-async
+[      1547] Started resource esplugin_mysql
+[      1578] Started resource es_extended
+[      1594] Started resource async
+[      1594] Started resource esx_menu_default
+[      1594] Started resource esx_menu_list
+[      1609] Started resource esx_menu_dialog
+[      1609] Started resource esx_skin
+[      1672] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1672] Sending heartbeat to live-internal.fivem.net:30110
+[      1687] 
+[      1687] Current version: 4.4.2
+[      1687] Updater version: 4.4.2
+[      1687] 
+[      1687] Everything is fine!
+[      1687] 
+[      1703] Started resource fivem-map-hipster
+[      1703] Started map fivem-map-hipster
+[      1859] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2075500219
+[      2125] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2075500219
+[      2187] hitch warning: frame time of 513 milliseconds
+[      2531] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2075500219
+[      2922] -------------------------------------------------------------
+[      2922] --- No errors detected, essentialmode is setup properely. ---
+[      2937] -------------------------------------------------------------
+[     80781] Connecting: Tchoune
+[    181703] Sending heartbeat to live-internal.fivem.net:30110
+[    278984] Sending heartbeat to live-internal.fivem.net:30110
+[    282500] Connecting: Tchoune
+[    308437] Stopping resource hardcap
+[    308453] Started resource hardcap
+[    318953] Sending heartbeat to live-internal.fivem.net:30110
+[    319219] Connecting: Tchoune
+[    498953] Sending heartbeat to live-internal.fivem.net:30110
+[    678984] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       188] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       188]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       188]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       203] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       219] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       235] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       235] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       266] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       313] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       313] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       313] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       328] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       344] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       360] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       360] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       375] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       469] Started resource sessionmanager
+[       485] Started resource mapmanager
+[       500] Started resource chat
+[       500] Started resource spawnmanager
+[       500] Started resource fivem
+[       500] Started gametype Freeroam
+[       516] Started resource hardcap
+[       531] Started resource rconlog
+[       531] Started resource scoreboard
+[       531] true
+[       547] Started resource essentialmode
+[       563] Started resource es_admin
+[      1391] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_604237313
+[      1422] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1422] Started resource mysql-async
+[      1485] Started resource esplugin_mysql
+[      1516] Started resource es_extended
+[      1516] Started resource async
+[      1531] Started resource esx_menu_default
+[      1531] Started resource esx_menu_list
+[      1531] Started resource esx_menu_dialog
+[      1547] Started resource esx_skin
+[      1625] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1625] Sending heartbeat to live-internal.fivem.net:30110
+[      1625] 
+[      1625] Current version: 4.4.2
+[      1625] Updater version: 4.4.2
+[      1625] 
+[      1625] Everything is fine!
+[      1625] 
+[      1641] Started resource fivem-map-skater
+[      1641] Started map fivem-map-skater
+[      1797] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_604237313
+[      1969] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_604237313
+[      2031] hitch warning: frame time of 426 milliseconds
+[      2360] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_604237313
+[      2860] -------------------------------------------------------------
+[      2860] --- No errors detected, essentialmode is setup properely. ---
+[      2875] -------------------------------------------------------------
+[     24297] Connecting: Tchoune
+[     34531] Sending heartbeat to live-internal.fivem.net:30110
+[     34938] Connecting: Tchoune
+[    118610] Sending heartbeat to live-internal.fivem.net:30110
+[    120344] Connecting: Tchoune
+[    298625] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[       203] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       203]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       203]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       219] Found new resource async in C:/Serveur-GTA/resources//async
+[       219] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       234] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       234] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       250] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       250] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       250] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       266] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       266] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[       281] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[       281] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[       281] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[       297] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[       297] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[       312] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[       312] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[       328] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[       328] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[       344] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[       344] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[       344] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[       359] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[       359] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[       375] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[       391] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[       391] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[       391] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[       406] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[       406] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[       422] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[       469] Started resource sessionmanager
+[       484] Started resource mapmanager
+[       500] Started resource chat
+[       500] Started resource spawnmanager
+[       500] Started resource fivem
+[       500] Started gametype Freeroam
+[       516] Started resource hardcap
+[       531] Started resource rconlog
+[       531] Started resource scoreboard
+[       547] true
+[       547] Started resource essentialmode
+[       562] Started resource es_admin
+[      1406] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_287588322
+[      1437] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1437] Started resource mysql-async
+[      1500] Started resource esplugin_mysql
+[      1531] Started resource es_extended
+[      1547] Started resource async
+[      1547] Started resource esx_menu_default
+[      1547] Started resource esx_menu_list
+[      1562] Started resource esx_menu_dialog
+[      1562] Started resource esx_skin
+[      1578] Started resource esx_skinchanger
+[      1656] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1656] Sending heartbeat to live-internal.fivem.net:30110
+[      1656] 
+[      1656] Current version: 4.4.2
+[      1656] Updater version: 4.4.2
+[      1656] 
+[      1656] Everything is fine!
+[      1656] 
+[      1672] Started resource fivem-map-hipster
+[      1672] Started map fivem-map-hipster
+[      1828] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_287588322
+[      2016] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_287588322
+[      2078] hitch warning: frame time of 440 milliseconds
+[      2391] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_287588322
+[      2875] -------------------------------------------------------------
+[      2891] --- No errors detected, essentialmode is setup properely. ---
+[      2891] -------------------------------------------------------------
+[     50047] Connecting: Tchoune
+[    181703] Sending heartbeat to live-internal.fivem.net:30110
+[    361734] Sending heartbeat to live-internal.fivem.net:30110
+[    541750] Sending heartbeat to live-internal.fivem.net:30110
+[    721766] Sending heartbeat to live-internal.fivem.net:30110
+[    901797] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       344] Initializing Mono completed
+[       375] Hello!
+[       750] Failed to get instance for guid a7242855-0350-4cb5-a0fe-61021e7eafaa and iid 567634c6-3bdd-4d0e-af39-7472aed479b7: System.InvalidOperationException: Sequence contains no matching element
+[       750]   at System.Linq.Enumerable.First[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x00011] in <48501e5f32e8491e924f8b8beae3e4f6>:0 
+[       750]   at CitizenFX.Core.RuntimeManager.CreateObjectInstance (System.Guid guid, System.Guid iid) [0x00014] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\RuntimeManager.cs:39 
+[       782] Found new resource async in C:/Serveur-GTA/resources//async
+[       860] Found new resource fivem in C:/Serveur-GTA/resources//fivem
+[       875] Found new resource fivem-awesome1501 in C:/Serveur-GTA/resources//fivem-awesome1501
+[       891] Found new resource fivem-map-hipster in C:/Serveur-GTA/resources//fivem-map-hipster
+[       891] Found new resource fivem-map-skater in C:/Serveur-GTA/resources//fivem-map-skater
+[       907] Found new resource mysql-async in C:/Serveur-GTA/resources//mysql-async
+[       922] Found new resource esplugin_mysql in C:/Serveur-GTA/resources//[essentialmode]/esplugin_mysql
+[       938] Found new resource essentialmode in C:/Serveur-GTA/resources//[essentialmode]/essentialmode
+[       969] Found new resource es_admin in C:/Serveur-GTA/resources//[essentialmode]/es_admin
+[       985] Found new resource es_extended in C:/Serveur-GTA/resources//[essentialmode]/es_extended
+[      1032] Found new resource esx_skin in C:/Serveur-GTA/resources//[esx]/esx_skin
+[      1047] Found new resource esx_skinchanger in C:/Serveur-GTA/resources//[esx]/esx_skinchanger
+[      1063] Found new resource race in C:/Serveur-GTA/resources//[gamemodes]/race
+[      1063] Found new resource race-test in C:/Serveur-GTA/resources//[gamemodes]/race-test
+[      1079] Found new resource channelfeed in C:/Serveur-GTA/resources//[gameplay]/channelfeed
+[      1079] Found new resource irc in C:/Serveur-GTA/resources//[gameplay]/irc
+[      1094] Found new resource obituary in C:/Serveur-GTA/resources//[gameplay]/obituary
+[      1094] Found new resource obituary-deaths in C:/Serveur-GTA/resources//[gameplay]/obituary-deaths
+[      1110] Found new resource mapmanager in C:/Serveur-GTA/resources//[managers]/mapmanager
+[      1125] Found new resource baseevents in C:/Serveur-GTA/resources//[system]/baseevents
+[      1141] Found new resource chat in C:/Serveur-GTA/resources//[system]/chat
+[      1157] Found new resource hardcap in C:/Serveur-GTA/resources//[system]/hardcap
+[      1157] Found new resource rconlog in C:/Serveur-GTA/resources//[system]/rconlog
+[      1172] Found new resource scoreboard in C:/Serveur-GTA/resources//[system]/scoreboard
+[      1172] Found new resource sessionmanager in C:/Serveur-GTA/resources//[system]/sessionmanager
+[      1188] Found new resource spawnmanager in C:/Serveur-GTA/resources//[system]/spawnmanager
+[      1188] Found new resource betaguns in C:/Serveur-GTA/resources//[test]/betaguns
+[      1188] Found new resource gameInit in C:/Serveur-GTA/resources//[test]/gameInit
+[      1204] Found new resource keks in C:/Serveur-GTA/resources//[test]/keks
+[      1219] Found new resource esx_menu_default in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_default
+[      1235] Found new resource esx_menu_dialog in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_dialog
+[      1250] Found new resource esx_menu_list in C:/Serveur-GTA/resources//[esx]/[ui]/esx_menu_list
+[      1360] Started resource sessionmanager
+[      1407] Started resource mapmanager
+[      1469] Started resource chat
+[      1469] Started resource spawnmanager
+[      1469] Started resource fivem
+[      1485] Started gametype Freeroam
+[      1485] Started resource hardcap
+[      1500] Started resource rconlog
+[      1532] Started resource scoreboard
+[      1563] true
+[      1610] Started resource essentialmode
+[      1641] Started resource es_admin
+[      2485] Loaded MySQLAsync.net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1709229457
+[      2516] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      2516] Started resource mysql-async
+[      2579] Started resource esplugin_mysql
+[      2813] Started resource es_extended
+[      2844] Started resource async
+[      2860] Started resource esx_menu_default
+[      2875] Started resource esx_menu_list
+[      2875] Started resource esx_menu_dialog
+[      2891] Started resource esx_skin
+[      2922] Started resource esx_skinchanger
+[      3329] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3329] Sending heartbeat to live-internal.fivem.net:30110
+[      3329] 
+[      3329] Current version: 4.4.2
+[      3329] Updater version: 4.4.2
+[      3329] 
+[      3329] Everything is fine!
+[      3329] 
+[      3344] Started resource fivem-map-skater
+[      3344] Started map fivem-map-skater
+[      3563] Loaded MySqlConnector, Version=0.24.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1709229457
+[      3954] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1709229457
+[      4047] hitch warning: frame time of 1063 milliseconds
+[      4454] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1709229457
+[      4547] hitch warning: frame time of 153 milliseconds
+[      4547] -------------------------------------------------------------
+[      4547] --- No errors detected, essentialmode is setup properely. ---
+[      4547] -------------------------------------------------------------
+[     88235] Connecting: Tchoune
+[     92422] Sending heartbeat to live-internal.fivem.net:30110
+[     92704] Connecting: Tchoune
+[     95469] Sending heartbeat to live-internal.fivem.net:30110
+[     95688] Connecting: Tchoune
+[    275485] Sending heartbeat to live-internal.fivem.net:30110
